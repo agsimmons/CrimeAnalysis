@@ -143,3 +143,6 @@ dmypy.json
 
 # pipenv support for multiple Python versions?
 Pipfile.lock
+
+# Project Specific
+data/
